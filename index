@@ -159,7 +159,7 @@
 </div>
 
 <script>
-  const webhookURL = "https://hook.eu1.make.com/494yvopyy90v66rhjcq5m21i6anrf3ns";
+  const webhookURL = "https://hook.eu1.make.com/ercvgikpje86iv6wee16k7j4goljagj2";
 
   function toggleChat() {
     const chat = document.getElementById("chat");
